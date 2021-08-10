@@ -4,6 +4,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JinHoChoi0104=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JinHoChoi0104=anuraghazra&show_icons=true&theme=radical)
 
 
