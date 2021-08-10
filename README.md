@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinHoChoi0104&count_bg=%23D7E5EB&title_bg=%232F46BE&icon=&icon_color=%23CCCBCB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
 
