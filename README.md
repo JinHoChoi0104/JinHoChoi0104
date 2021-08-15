@@ -15,11 +15,12 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <br>
-  <br>
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
+  <br> <br> <br> <br> <br> <br>
+
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
   <br>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHoChoi0104)](https://github.com/anuraghazra/github-readme-stats)
