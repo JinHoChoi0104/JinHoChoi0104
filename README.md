@@ -5,9 +5,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
 
 <div align="center">
-  
-<br>
-
+  <br>
   ### **:books:Teck Stack I've Used:books:**
 
   
@@ -16,7 +14,8 @@
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<br>
+  <br>
+  <br>
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
