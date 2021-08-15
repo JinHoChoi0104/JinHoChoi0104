@@ -8,19 +8,24 @@
   
 <br>
 
-  ### **:pencil:Languages I've Used:pencil:**
-  
+  ### **:books:Teck Stack I've Used:books:**
+
   
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<br>
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
   <br>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHoChoi0104)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHoChoi0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHoChoi0104&show_icons=true&theme=tokyonight)
+
 </div>
 
 <!--
