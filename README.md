@@ -9,7 +9,7 @@
 <div align="center">
   <br>
  
-  ### **💻Teck Stack I've Used💻**
+  ### 💻Teck Stack I've Used💻
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,13 +23,20 @@
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-  <br> <br>
+  <br> <br> <br> <br>
 
- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinHoChoi0104)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHoChoi0104&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  
+
+ ### 👾 My Github 👾
+
+ <table><tr><td valign="top" width="50%">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JinHoChoi0104&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+  </td><td valign="top" width="50%">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinHoChoi0104&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+  </td></tr></table>  
   
 </div>
 
