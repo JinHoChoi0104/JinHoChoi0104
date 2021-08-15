@@ -6,6 +6,7 @@
 
 <div align="center">
   <br>
+  
   ### **:books:Teck Stack I've Used:books:**
 
   
@@ -19,7 +20,7 @@
   ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-  <br> <br> <br> <br> <br> <br>
+  <br> <br>
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
   <br>
