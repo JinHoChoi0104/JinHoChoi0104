@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
 
  
   <br> <br> <br> <br>
