@@ -1,6 +1,7 @@
 ## Slow But Steady 🔥
 
  <a href="mailto:bearsff@naver.com" target="_blank"><img src="https://img.shields.io/badge/Contact Me-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="https://circular-treatment-98f.notion.site/Jin-Ho-s-Study-Place-42ec834b7ec44ff3b97235f51eb3fe04" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinHoChoi0104&count_bg=%23D7E5EB&title_bg=%232F46BE&icon=&icon_color=%23CCCBCB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
