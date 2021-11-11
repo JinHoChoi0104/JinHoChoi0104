@@ -1,14 +1,14 @@
-## Slow But Steady 🔥
+## 🔥 Slow But Steady 🔥
 
  <a href="mailto:bearsff@naver.com" target="_blank"><img src="https://img.shields.io/badge/Contact Me-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://circular-treatment-98f.notion.site/Jin-Ho-s-Study-Place-42ec834b7ec44ff3b97235f51eb3fe04" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinHoChoi0104&count_bg=%23D7E5EB&title_bg=%232F46BE&icon=&icon_color=%23CCCBCB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bearsff)](https://solved.ac/bearsff)
-
+<br>
 
 <div align="left">
- <h2>💻 Teck Stack I've Used 💻 </h2>
+ <h2>💻 Teck Stack 💻 </h2>
  <h3>I'm advance in...</h3>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -20,6 +20,8 @@
  <h3>I have used...</h3>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processing foundation&logoColor=white"/>
  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/>
  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white"/>
